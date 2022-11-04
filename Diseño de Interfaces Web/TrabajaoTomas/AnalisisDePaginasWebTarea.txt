@@ -1,0 +1,53 @@
+No tiene logo
+No está estructurado
+No sirve el sistema de navegación por búsqueda
+Los enlaces no se distinguen de imágenes o texto
+No es responsiva
+No se sabe donde se está
+No existen la mayoría de elementos típicos
+No tiene jerarquía
+Mezcla el contenido de diversos temas en enlaces indistinguibles
+Hay un menú lateral pero no es para la propia página
+
+
+
+- La página no deja claro su finalidad
+- The page don´t have a clearly finality
+
+	- No muestra ningún tipo de pista o información que ayude a saber de qué trata
+
+
+- No las sigue, aunque si tiene un menú lateral.
+- It doesn´t follow any rules, but it also has a side menu
+
+	
+
+- No tiene jerarquía evidente
+- It doesn´t have an evident hierarchy
+
+	- La estructuración no se basa en nada, solo en amontonar todo el contenido
+
+- No tiene ningún tipo de división en secciones
+- It doesn´t have any type of internal division
+
+	- Claramente se ve que no tiene divisiones
+
+- No se distinguen botones ni enlaces de ningún tipo
+- It doesn´t distinguish any links or buttons
+
+	- No se sabe que es un enlace o botón, se confunden con las imágenes. El botón de búsqueda es el único visible pero no sirve
+
+- Realmente no hay nada que distraiga a excepción de su pobre organización
+- Actually it doesn´t have nothing that distract the viewer but it´s poor organization
+
+	- La página es estática y mal diseñada por diversas razones. La única animación es al final de esta.
+
+- No se estructura el contenido
+- It doesn´t show any structure on the content
+
+	- El contenido es muy variado sin ningún tipo de ayuda para saber a dónde vas o dónde estás
+
+- Hay un menú de búsqueda pero es inútil
+- There is a search bar but is useless. 
+
+	- No lleva a ningún sitio, y si pruebas salta un mensaje de "Unauthorized"

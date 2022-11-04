@@ -1,0 +1,36 @@
+PÁGINA PRINCIPAL
+
+- El usuario necesita registrarse para hacer las compras
+- El usuario podrá realizar búsquedas por medio de la search-bar
+- El usuario podrá navegar rápidamente mediante un menú desplegable
+- La página tiene un pie de página donde se ve la información de contacto
+- La página está dividida en secciones y estas contienen 3 imágenes descriptivas
+- Cada categoría es un enlace a una página con más información de la misma
+- Cada categoría tiene un nombre accesible por el menú desplegable
+
+
+
+PÁGINAS DE CADA CATEGORÍA
+
+- Menú de filtros de búsquedas
+- Cada foto es un enlace a una descripción más extensa
+- Cada foto cuenta con el nombre y su precio
+
+
+PÁGINA LOGIN
+
+- Habrá un header con el logo y el nombre
+- Habrá un footer con los términos legales y el copyright
+- El usuario deberá usar una cuenta válida por medio de un email
+
+PÁGINA REGISTRO
+
+- El usuario deberá rellenar los campos con su información
+- El último campo será para validar la tarjeta de crédito
+
+PÁGINA DE CADA OBJETO
+
+- Al pulsar una foto en la página de categorías se desplegará una ventana emergente
+- Esta ventana contiene 2 botones, uno para salir arriba izquierda y el de comprar abajo
+
+ 

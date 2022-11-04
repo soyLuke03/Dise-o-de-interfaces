@@ -1,0 +1,14 @@
+Video 1:
+- Sketching:
+	Sketching is a way to make prototypes and let the users make an idea of what are you trying to build. That form of prototyping is just using paper, ink and some makeshifts to ellaborate a first basic design of what your app will look like. Then, you can make a higher detail prototype.
+
+
+Video 2:
+- Digital prototyping:
+	Digital prototyping is a way to make prototypes based on making a digital prototype of our page. This way let us interact with the website and let us see how it will end more exactly.
+Its has movements, animations and a little more.
+
+Video 3:
+- Native prototyping:
+	Native prototyping is the hardest method to make a prototype because you use real devices, programming languages and real users. In that method you need to try, fail, improve and repeat as many times as you need until you reach the "sweet spot". 
+	

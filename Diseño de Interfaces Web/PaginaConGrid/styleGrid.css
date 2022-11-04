@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1.5fr 1fr;
+    grid-template-rows: 0.5fr 0.5fr 4fr 4fr;
+    grid-gap: 10px;
+    grid-template-areas: 
+    "header     search-bar  search-bar  usuario"
+    "categorias categorias  categorias  categorias"
+    "oferta     oferta      oferta      oferta"
+    "fotos      fotos       fotos       fotos";
+}
+
+
+
+.header {
+    display: grid;
+    grid-area: header;
+    background-color:rgb(191, 255, 0);
+}
+
+.header img {
+    margin: auto;
+    width: 80%;
+    height: 80%;
+}
+
+.search-bar{
+    display: grid;
+    grid-area: search-bar;
+    height: 100%;
+    text-align: center;
+    background-color: #003366;
+}
+
+.search-bar input {
+    height: 50%;
+    margin: auto;
+    width: 80%;
+}
+
+.usuario {
+    display: grid;
+    grid-area: usuario;
+    background-color: rgb(134, 0, 0);
+}
+
+.categorias {
+    display: grid;
+    grid-area: categorias;
+    background-color: rgb(94, 255, 0);
+}
+
+.categorias h1 {
+    font-size: 18px;
+}
+
+.oferta {
+    display: grid;
+    grid-area: oferta;
+    background-color: rgb(0, 255, 208);
+    text-align: center;
+}
+
+.fotos{
+    display: grid;
+    grid-area: fotos;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 8px;
+    grid-template-areas: 
+    "foto1 foto2  foto3  foto4";
+}
+
+.fotos img{
+    height: 98%;
+    width: 98%;
+    margin: auto;
+}
+
+.oferta img{
+    height: 98%;
+    width: 98%;
+    margin: auto;
+}
+
+.foto1{
+    display: grid;
+    grid-area: foto1;
+    background-color: #2600ff;
+    text-align: center;
+}
+.foto2{
+    display: grid;
+    grid-area: foto2;
+    background-color: #00b3ff;
+    text-align: center;
+}
+.foto3{
+    display: grid;
+    grid-area: foto3;
+    background-color: #009dff;
+    text-align: center;
+}
+.foto4{
+    display: grid;
+    grid-area: foto4;
+    background-color: #00c3ff;
+    text-align: center;
+}
+
+@media screen and (max-width:480px) {
+    body {
+        margin: 0;
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+    }
+    
+    .container {
+        height: 100vh;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 4fr 4fr;
+        grid-gap: 10px;
+        grid-template-areas: 
+        "header header header usuario"
+        "search-bar search-bar search-bar search-bar"
+        "categorias categorias categorias categorias"
+        "oferta oferta oferta oferta"
+        "fotos fotos fotos fotos";
+    }
+    
+    .fotos{
+        display: grid;
+        grid-area: fotos;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 8px;
+        grid-template-areas: 
+        "foto1 foto2  foto3  foto4";
+    }
+    
+    
+}
